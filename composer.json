@@ -1,0 +1,17 @@
+{
+    "name": "ch1nesy/val-shop",
+    "autoload": {
+        "psr-4": {
+            "Ch1nesy\\ValShop\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Чингис",
+            "email": "underchina@mail.ru"
+        }
+    ],
+    "require": {
+        "ch1nesy/my-core": "dev-master"
+    }
+}
